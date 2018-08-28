@@ -1,0 +1,33 @@
+.listplusfooter {
+	display: inline-flex;
+    width: 100%;
+}
+.listplusfooter .aq-container {
+	display: inline-flex;
+}
+.listplusfooter .aq-asset {
+	padding: 0;
+    margin-top: 13px;
+    margin-right: 13px;
+    border: none
+}
+.listplusfooter input[type="text"] {
+	width: 30px;
+}
+.listplusfooter .aq-field {
+	width: 40px;
+    border: none;
+    margin-top: -3px;
+}
+.listplusfooter .aq-button-clear {
+	margin-left: 10px;
+	display: none;
+} 
+.listplusfooter .aq-button-last {
+	margin-right: 10px;
+}
+
+.invalid-format-error {
+	color: red;
+    font-weight: bold;
+}  

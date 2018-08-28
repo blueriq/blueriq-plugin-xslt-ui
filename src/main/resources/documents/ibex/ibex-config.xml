@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ibexconfig>
+<font name="arial" file="c:\windows\fonts\ARIAL.TTF"/>
+<font name="arial" bold="true" file="c:\windows\fonts\ARIALBD.TTF"/>
+<font name="arial" italic="true" file="c:\windows\fonts\ARIALI.TTF"/>
+<font name="monospace" file="c:\windows\fonts\cour.TTF"/>
+<font name="monospace" italic="true" file="c:\windows\fonts\couri.TTF"/>
+<font name="monospace" bold="true" file="c:\windows\fonts\courbd.TTF"/>
+<font name="minion regular" file="c:\windows\fonts\MORG____.TTF"/>
+<font name="minion" bold="true" file="c:\windows\fonts\MOB_____.TTF"/>
+<font name="minion" italic="true" file="c:\windows\fonts\MOI_____.TTF"/>
+<font name="times new roman" italic="false" file="c:\windows\fonts\times.TTF"/>
+<font name="verdana" italic="false" file="c:\windows\fonts\verdana.TTF"/>
+<font name="helveticaneuelt cond" file="c:\xpsp2\fonts\lte50874.PFB"
+pfm="c:\xpsp2\fonts\lte50874.PFM"/>
+<font name="wingdings 2" file="c:\windows\fonts\WINGDNG2.TTF"/>
+<!-- Also see documentation on Blueriq Community for Blueriq Runtime property 'blueriq.documents.base-folder' -->
+<font name="fontawesome regular" file="c:\blueriq_documents_base_folder\fonts\fontawesome\fontawesome-webfont.ttf"/>
+</ibexconfig>
